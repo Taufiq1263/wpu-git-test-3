@@ -9,6 +9,9 @@
 <body>
   <h1>hello word!</h1>
   <h1>lorena</h1>
-  
+  <ul>
+    <li>satu</li>
+    <li>dua</li>
+</ul>
 </body>
 </html>
